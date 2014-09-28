@@ -1,1 +1,3 @@
-Mars is a cool planet
+Mars is a cool planet.
+
+I don't like the polar caps, though. 
